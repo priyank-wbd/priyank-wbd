@@ -24,6 +24,15 @@ Hi, I’m Priyank Patidar, a passionate software engineer with a keen interest i
 ### Open Source Contributions
 - **[Daily Dev](#):**
 
+## GitHub Stats
+![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyank-wbd&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyank-wbd&layout=compact&theme=radical)
+
+## Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyank-wbd&theme=radical)
+
 ## Get in Touch
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/priyank-patidar-b58432103/) or check out my [portfolio website](#) for more information about my work and experiences.
 
